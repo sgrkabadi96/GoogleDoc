@@ -1,4 +1,4 @@
-# GoogleDoc
+# PaperSync
 
 ## Getting Started
 
