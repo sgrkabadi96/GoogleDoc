@@ -26,6 +26,7 @@ The server will be running on `http://localhost:3001`.
 
 Now you can open your browser and visit `http://localhost:3000` to access the Sharable Docs application.
 
+
 ## Project Structure
 
 The repository structure is organized as follows:
