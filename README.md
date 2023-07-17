@@ -31,22 +31,4 @@ The repository structure is organized as follows:
 - `client`: Contains the frontend code built with React.
 - `server`: Contains the backend code built with Socket.IO and MongoDB.
 
-## Contributing
 
-Contributions are welcome! If you'd like to contribute to Sharable Docs, please follow these steps:
-
-1. Fork this repository.
-2. Create a new branch: `git checkout -b my-feature-branch`
-3. Make your changes and commit them: `git commit -am 'Add new feature'`
-4. Push to the branch: `git push origin my-feature-branch`
-5. Submit a pull request.
-
-Please ensure your code follows the project's coding conventions and includes appropriate tests when applicable.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-If you have any questions, suggestions, or feedback, please feel free to contact us at sharabledocs@example.com.
